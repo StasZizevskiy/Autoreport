@@ -14,9 +14,9 @@ from airflow.decorators import dag, task
 from airflow.operators.python import get_current_context
 
 # настройка взаимодействия с ботом
-chat_id = -938659451
+chat_id = *************
 
-my_token = '7680117939:AAFmoIXFfxF8ruzwtiZxg37OIH9jTpBZCHw'
+my_token = '******************'
 bot = telegram.Bot(token=my_token)
 
 # подключаемся к БД
