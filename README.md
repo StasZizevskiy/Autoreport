@@ -12,3 +12,5 @@
 
 
 Система проверена на работоспособность в Jupiter notebook, потом переведена в формат .py для запуска в системе Airflow
+![Пример автоотчёта](https://github.com/user-attachments/assets/ce36b74b-2f48-42bc-88de-8a35275ad8ca)
+![Пример автоотчёта2](https://github.com/user-attachments/assets/ff61dfc7-882f-4278-80b2-c64224fcc2d5)
